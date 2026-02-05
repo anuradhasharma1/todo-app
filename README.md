@@ -15,7 +15,7 @@ Designed to manage daily tasks efficiently with a smooth and fast UI.
 - **React** – UI library
 - **Vite** – Build tool
 - **JavaScript (ES6+)**
-- **CSS / Tailwind CSS** *(update if applicable)*
+- **CSS / Tailwind CSS** 
 
 ##  Project Structure
 src/
